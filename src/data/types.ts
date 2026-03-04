@@ -30,6 +30,7 @@ export interface PortfolioProject {
   images?: string[];
   media?: ProjectMediaItem[];
   url?: string;
+  description?: string;
 }
 
 export interface ContactItem {

@@ -33,7 +33,8 @@
         "/assets/cns-lookup.png",
         "/assets/cns-register.png"
       ],
-      "url": "https://chungnhanso.vn/"
+      "url": "https://chungnhanso.vn/",
+      "description": "Hệ thống đăng ký và tra cứu chứng nhận số — fullstack app hỗ trợ đăng ký, xác thực và tra cứu chứng nhận điện tử cho người dùng. Tập trung vào UX dễ sử dụng và bảo mật dữ liệu."
     },
     {
       "id": 2,
@@ -45,7 +46,8 @@
         "/assets/soict-awards.png",
         "/assets/soict-360.png"
       ],
-      "url": "https://360-soict.sinno.io.vn/"
+      "url": "https://360-soict.sinno.io.vn/",
+      "description": "Triển lãm tương tác 360° kỷ niệm 30 năm SoICT — trải nghiệm web 3D/360, hiển thị nội dung lịch sử và giải thưởng, tối ưu cho trình duyệt trên desktop và thiết bị di động."
     },
     {
       "id": 3,
@@ -55,7 +57,8 @@
       "images": [
         "/assets/vr-tour-360.png"
       ],
-      "url": "https://vr.khanhvu.click/"
+      "url": "https://vr.khanhvu.click/",
+      "description": "Dự án VR tour 360 — trải nghiệm tham quan địa điểm du lịch bằng hình ảnh 360, tích hợp điều hướng, chú thích và giao diện thân thiện cho người dùng."
     }
   ],
   "contact": [

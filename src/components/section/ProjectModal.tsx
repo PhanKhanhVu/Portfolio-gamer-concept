@@ -80,6 +80,11 @@ export default function ProjectModal() {
                 {data.year}
               </span>
             </div>
+            {data.description && (
+              <p className="mt-4 text-sm md:text-base text-black max-w-3xl">
+                {data.description}
+              </p>
+            )}
           </div>
           <button
             type="button"
