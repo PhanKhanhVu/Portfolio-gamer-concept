@@ -5,7 +5,7 @@ import { useLanguage } from "@/context/LanguageContext";
 import { portfolio } from "@/lib/portfolio";
 
 export default function Works() {
-  const { openProjectModal } = usePortfolio();
+  const { openProjectModal, theme } = usePortfolio();
   const { t } = useLanguage();
   const projects = portfolio.projects;
 
@@ -72,7 +72,11 @@ export default function Works() {
                   </span>
                 </div>
                 {project.description && (
-                  <p className="text-sm text-white line-clamp-2">
+                  <p
+                    className={`text-sm line-clamp-2 ${
+                      theme === "neo-brutalism" ? "text-white" : "text-black"
+                    }`}
+                  >
                     {project.description}
                   </p>
                 )}
