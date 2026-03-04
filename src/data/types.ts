@@ -29,6 +29,7 @@ export interface PortfolioProject {
   year: string;
   images?: string[];
   media?: ProjectMediaItem[];
+  url?: string;
 }
 
 export interface ContactItem {
