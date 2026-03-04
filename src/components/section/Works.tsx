@@ -63,7 +63,7 @@ export default function Works() {
                 <h3 className="text-2xl font-black uppercase mb-2">
                   {project.title}
                 </h3>
-                <div className="flex gap-2 font-mono text-xs font-bold">
+                <div className="flex gap-2 font-mono text-xs font-bold mb-3">
                   <span className="bg-black text-white px-2 py-1">
                     {project.category}
                   </span>
@@ -71,6 +71,11 @@ export default function Works() {
                     {project.year}
                   </span>
                 </div>
+                {project.description && (
+                  <p className="text-sm text-white line-clamp-2">
+                    {project.description}
+                  </p>
+                )}
               </div>
             </div>
           </div>
