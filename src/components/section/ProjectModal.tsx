@@ -200,7 +200,32 @@ export default function ProjectModal() {
           </svg>
         </button>
 
-        <div className="absolute bottom-6 left-0 w-full flex justify-center gap-4 pointer-events-none">
+        <div className="absolute bottom-6 left-0 w-full flex flex-col items-center gap-4 pointer-events-none">
+          <div className="flex gap-4 pointer-events-auto">
+            {data.url && (
+              <a
+                href={data.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-black text-white px-6 py-3 font-black uppercase border-4 border-black shadow-[4px_4px_0px_0px_#333] hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition-all text-sm md:text-base flex items-center gap-2 group"
+              >
+                <span>Visit Website</span>
+                <svg
+                  className="w-4 h-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="square"
+                    strokeLinejoin="miter"
+                    strokeWidth={4}
+                    d="M10 6H6v12h12v-4m0-5V4m0 0h-4m4 0l-5 5"
+                  />
+                </svg>
+              </a>
+            )}
+          </div>
           <div className="bg-black/80 text-white px-4 py-2 font-mono text-xs font-bold pointer-events-auto backdrop-blur-md rounded-full border border-white/20 flex items-center gap-4">
             <span>{t("modal.swipeToView")}</span>
             <span className="w-px h-3 bg-white/50" />

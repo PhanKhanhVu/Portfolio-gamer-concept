@@ -1,39 +1,28 @@
 {
   "profile": {
-    "name": "Đức",
-    "fullName": "Nguyen Quy Duc",
-    "education": "HUST - Software Engineering",
-    "location": "Hanoi, Vietnam",
+    "name": "Vũ",
+    "fullName": "Phan Khánh Vũ",
+    "education": "ĐH Bách Khoa Hà Nội - IT-E6 K68",
+    "location": "Hà Nội, Việt Nam",
     "languages": "EN / VI / JP",
     "profileImage": "/assets/profile-pic.png",
-    "profileImageLabel": "IMG_PROFILE_01"
+    "profileImageLabel": "IMG_PROFILE_VU"
   },
   "whatIDo": {
-    "text": "Versatile Software Engineer with a strong passion for Software Product Development. Fullstack and VR/XR research. Building high-quality \"Make in Vietnam\" products that deliver real value to users.",
-    "highlights": ["Software Engineer", "Make in Vietnam"]
+    "text": "Sinh viên Công nghệ thông tin tại HUST với niềm đam mê mãnh liệt trong thiết kế UI/UX và lập trình Front-end. Tôi tập trung vào việc tạo ra những giao diện người dùng tinh tế, kết hợp cùng kỹ năng tiếng Nhật chuyên ngành IT.",
+    "highlights": ["Front-end Developer", "UI/UX Designer"]
   },
   "skills": [
-    { "name": "Python" },
-    { "name": "Java" },
-    { "name": "C++" },
-    { "name": "JavaScript" },
-    { "name": "TypeScript" },
-    { "name": "Go" },
-    { "name": "Rust" },
-    { "name": "C#" },
-    { "name": "Next.js" },
-    { "name": "React" },
-    { "name": "TailwindCSS" },
-    { "name": "Express.js" },
-    { "name": "FastAPI" },
-    { "name": "Google Cloud" },
-    { "name": "AWS" },
-    { "name": "Docker" },
-    { "name": "CI/CD/GitHub Actions" },
-    { "name": "MongoDB" },
-    { "name": "PostgreSQL" },
-    { "name": "Redis" }
-  ],
+    { "name": "UI/UX Design & Prototyping (Figma Expert)" },
+    { "name": "Front-end Architecture (React/Next.js)" },
+    { "name": "TypeScript/JavaScript (ES6+)" },
+    { "name": "Responsive & Modern UI (TailwindCSS/SCSS)" },
+    { "name": "Git Workflow & Team Collaboration" },
+    { "name": "IT Nihongo (Japanese for Technical Communication)" },
+    { "name": "C/C++ & Java Core" },
+    { "name": "PC Hardware Optimization & Building" },
+    { "name": "Game Engine Modding (Minecraft Environment)" }
+ ],
   "projects": [
     {
       "id": 1,
@@ -57,28 +46,38 @@
         "/assets/soict-360.png"
       ],
       "url": "https://360-soict.sinno.io.vn/"
+    },
+    {
+      "id": 3,
+      "title": "Du lịch 360",
+      "category": "VR EXPERIENCE",
+      "year": "2026",
+      "images": [
+        "/assets/vr-tour-360.png"
+      ],
+      "url": "https://vr.khanhvu.click/"
     }
   ],
   "contact": [
     {
       "type": "#phone",
-      "label": "(+84) 902 172 005",
-      "url": "tel:+84902172005"
+      "label": "(+84) 862 318 862",
+      "url": "tel:+84862318862"
     },
     {
       "type": "email",
-      "label": "quyduc1404@gmail.com",
-      "url": "mailto:quyduc1404@gmail.com"
+      "label": "hi3sirin@gmail.com",
+      "url": "mailto:hi3sirin@gmail.com"
     },
     {
       "type": "linkedin",
       "label": "LinkedIn",
-      "url": "https://www.linkedin.com/in/nguyễn-quý-đức"
+      "url": "https://www.linkedin.com/in/phankhanhvu"
     },
     {
       "type": "github",
       "label": "GitHub",
-      "url": "https://github.com/nqd2"
+      "url": "https://github.com/PhanKhanhVu"
     }
   ]
 }

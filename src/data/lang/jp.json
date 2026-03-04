@@ -6,18 +6,18 @@
     "contact": "お問い合わせ"
   },
   "profile": {
-    "fullName": "グエン・クイ・ドゥック",
-    "education": "ハノイ工科大学 - ソフトウェア工学",
+    "fullName": "ファン・カイン・ヴー",
+    "education": "ハノイ工科大学 - IT-E6 K68",
     "location": "ハノイ、ベトナム",
     "languages": "EN / VI / JP"
   },
   "hero": {
     "hiIm": "こんにちは、名前は",
     "and": "に特化",
-    "role1": "ソフトウェアエンジニア",
-    "role2": "FULLSTACK & VR/XR",
-    "description": "ソフトウェア製品開発に情熱を持つソフトウェアエンジニア。FullstackとVR/XR研究。",
-    "descriptionHighlight": "ソフトウェアエンジニア",
+    "role1": "フロントエンドエンジニア",
+    "role2": "UI/UX デザイナー",
+    "description": "ハノイ工科大学（HUST）のIT-E6コースに在籍している学生です。直感的なインターフェースと高品質なWeb体験の構築に情熱を持っています。",
+    "descriptionHighlight": "フロントエンドエンジニア",
     "scroll": "スクロール",
     "hireNow": "採用する",
     "expand": "+ 展開",
@@ -31,16 +31,16 @@
     "loc": "所在地",
     "lang": "言語",
     "whatIDo": "できること",
-    "whatIDoText": "ソフトウェア製品開発に情熱を持つソフトウェアエンジニア。Fullstack（Next.js、MongoDB）とVR/XR研究。「Make in Vietnam」の高品質製品でユーザーに価値を届けます。",
-    "whatIDoHighlight1": "ソフトウェアエンジニア",
-    "whatIDoHighlight2": "Make in Vietnam",
+    "whatIDoText": "ハノイ工科大学（HUST）のIT-E6クラスに所属する学生です。フロントエンド開発とUI/UXデザインを専門とし、美しさと機能性を兼ね備えたデジタル製品の構築を目指しています。また、IT日本語（IT Nihongo）も熱心に学んでいます。",
+    "whatIDoHighlight1": "フロントエンドエンジニア",
+    "whatIDoHighlight2": "UI/UX デザイナー",
     "skills": "スキル",
     "interactiveEngine": "(ドラッグしてみてください)",
     "operatingSystem": "オペレーティングシステム",
     "osName": "Windows",
-    "osVer": "Win10 LTSC",
+    "osVer": "Windows 11",
     "status": "ステータス",
-    "statusText": "求職中..."
+    "statusText": "コラボレーション募集中..."
   },
   "works": {
     "showcaseBg": "作品",
@@ -49,7 +49,7 @@
   },
   "contact": {
     "title": "お問い合わせ",
-    "openToWork": "求職中",
+    "openToWork": "コラボレーション募集中",
     "getInTouch": "連絡する",
     "sendMessage": "メッセージを送る",
     "back": "← 戻る",
@@ -62,7 +62,7 @@
     "formMessage": "メッセージ"
   },
   "footer": {
-    "copyright": "© NQD 2026"
+    "copyright": "© PKV 2026"
   },
   "modal": {
     "swipeToView": "スワイプ / スクロールで閲覧"

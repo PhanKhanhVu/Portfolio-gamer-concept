@@ -6,18 +6,18 @@
     "contact": "Contact"
   },
   "profile": {
-    "fullName": "Nguyen Quy Duc",
-    "education": "HUST - Software Engineering",
+    "fullName": "Phan Khanh Vu",
+    "education": "HUST - IT-E6 K68",
     "location": "Hanoi, Vietnam",
     "languages": "EN / VI / JP"
   },
   "hero": {
     "hiIm": "Hi, I'm",
     "and": "specialized in",
-    "role1": "SOFTWARE ENGINEER",
-    "role2": "FULLSTACK & VR/XR",
-    "description": "Versatile Software Engineer passionate about product development. Fullstack & VR/XR research.",
-    "descriptionHighlight": "Software Engineer",
+    "role1": "FRONT-END DEVELOPER",
+    "role2": "UI/UX DESIGNER",
+    "description": "Front-end Developer and UI/UX Designer at HUST. Passionate about creating intuitive interfaces and high-quality web experiences.",
+    "descriptionHighlight": "Front-end Developer",
     "scroll": "SCROLL",
     "hireNow": "HIRE NOW",
     "expand": "+ EXPAND",
@@ -31,16 +31,16 @@
     "loc": "Location",
     "lang": "Languages",
     "whatIDo": "What I do?",
-    "whatIDoText": "Versatile Software Engineer with a strong passion for Software Product Development. Fullstack and VR/XR research. Building high-quality \"Make in Vietnam\" products that deliver real value to users.",
-    "whatIDoHighlight1": "Software Engineer",
-    "whatIDoHighlight2": "Make in Vietnam",
+    "whatIDoText": "I am a student at Hanoi University of Science and Technology (HUST), majoring in IT-E6. I focus on Front-end development and UI/UX design, combining technical skills with a keen eye for aesthetics. I also have a strong interest in Japanese culture and IT Nihongo.",
+    "whatIDoHighlight1": "Front-end Developer",
+    "whatIDoHighlight2": "UI/UX Designer",
     "skills": "Skills",
     "interactiveEngine": "(Try dragging them around)",
     "operatingSystem": "OPERATING SYSTEM",
     "osName": "Windows",
-    "osVer": "Win10 LTSC",
+    "osVer": "Windows 11",
     "status": "Status",
-    "statusText": "Looking for a job..."
+    "statusText": "Open to collaboration..."
   },
   "works": {
     "showcaseBg": "SHOWCASE",
@@ -62,7 +62,7 @@
     "formMessage": "Message"
   },
   "footer": {
-    "copyright": "© NQD 2026"
+    "copyright": "© PKV 2026"
   },
   "modal": {
     "swipeToView": "SWIPE / SCROLL TO VIEW"

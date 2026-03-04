@@ -6,41 +6,41 @@
     "contact": "Liên hệ"
   },
   "profile": {
-    "fullName": "Nguyễn Quý Đức",
-    "education": "ĐH Bách Khoa Hà Nội - Công nghệ thông tin",
+    "fullName": "Phan Khánh Vũ",
+    "education": "ĐH Bách Khoa Hà Nội - IT-E6 K68",
     "location": "Hà Nội, Việt Nam",
     "languages": "EN / VI / JP"
   },
   "hero": {
     "hiIm": "Xin chào, tôi là",
     "and": "VÀ",
-    "role1": "KỸ SƯ PHẦN MỀM",
-    "role2": "FULLSTACK & VR/XR",
-    "description": "Kỹ sư phần mềm đa năng, đam mê phát triển sản phẩm. Fullstack và nghiên cứu VR/XR.",
-    "descriptionHighlight": "Kỹ sư phần mềm",
+    "role1": "LẬP TRÌNH VIÊN FRONT-END",
+    "role2": "NHÀ THIẾT KẾ UI/UX",
+    "description": "Sinh viên IT-E6 tại ĐH Bách Khoa Hà Nội, đam mê phát triển giao diện và thiết kế UI/UX. Tập trung xây dựng trải nghiệm người dùng tinh tế.",
+    "descriptionHighlight": "Front-end Developer",
     "scroll": "CUỘN",
-    "hireNow": "THUÊ TÔI",
+    "hireNow": "LIÊN HỆ",
     "expand": "+ MỞ RỘNG",
     "minimize": "- THU GỌN"
   },
   "about": {
     "aboutMe": "VỀ TÔI",
     "information": "Thông tin",
-    "name": "Tên",
+    "name": "Họ và tên",
     "edu": "Học vấn",
     "loc": "Nơi ở",
     "lang": "Ngôn ngữ",
     "whatIDo": "Tôi làm gì?",
-    "whatIDoText": "Kỹ sư phần mềm đa năng, đam mê phát triển sản phẩm. Fullstack và nghiên cứu VR/XR. Xây sản phẩm \"Make in Vietnam\" chất lượng cao, mang lại giá trị thực cho người dùng.",
-    "whatIDoHighlight1": "Kỹ sư phần mềm",
-    "whatIDoHighlight2": "Make in Vietnam",
+    "whatIDoText": "Tôi là sinh viên chuyên ngành Công nghệ thông tin (IT-E6) tại Đại học Bách khoa Hà Nội. Với niềm đam mê thiết kế UI/UX và phát triển Front-end, tôi luôn cố gắng tạo ra những sản phẩm web có tính thẩm mỹ cao và giá trị thực tiễn. Ngoài ra, tôi đang tích cực trau dồi tiếng Nhật chuyên ngành IT.",
+    "whatIDoHighlight1": "Front-end Developer",
+    "whatIDoHighlight2": "UI/UX Designer",
     "skills": "Kỹ năng",
     "interactiveEngine": "(Thử kéo thả xem sao)",
     "operatingSystem": "HỆ ĐIỀU HÀNH",
     "osName": "Windows",
-    "osVer": "Win10 LTSC",
+    "osVer": "Windows 11",
     "status": "Trạng thái",
-    "statusText": "Đang tìm việc..."
+    "statusText": "Sẵn sàng hợp tác..."
   },
   "works": {
     "showcaseBg": "DỰ ÁN",
@@ -49,7 +49,7 @@
   },
   "contact": {
     "title": "LIÊN HỆ",
-    "openToWork": "SẴN SÀNG LÀM VIỆC",
+    "openToWork": "SẴN SÀNG HỢP TÁC",
     "getInTouch": "KẾT NỐI",
     "sendMessage": "Gửi tin nhắn",
     "back": "← QUAY LẠI",
@@ -62,7 +62,7 @@
     "formMessage": "Nội dung"
   },
   "footer": {
-    "copyright": "© NQD 2026"
+    "copyright": "© PKV 2026"
   },
   "modal": {
     "swipeToView": "TRƯỢT / CUỘN ĐỂ XEM"

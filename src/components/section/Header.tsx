@@ -36,9 +36,9 @@ export default function Header() {
         <Link href="#hero" className="block focus:outline-none">
           <div className="bg-black px-2 sm:px-4 py-1 transform -rotate-2 border-2 border-black inline-block group cursor-pointer transition-transform hover:-rotate-1">
             <span className="text-xl sm:text-2xl font-black font-mono relative block text-white tracking-widest">
-              <span className="absolute left-0.75 top-0 text-cyan-400 mix-blend-screen opacity-90 group-hover:-left-px transition-all">NQD&gt;&gt;</span>
-              <span className="absolute left-0.75 top-0 text-orange-500 mix-blend-screen opacity-90 group-hover:left-px transition-all">NQD&gt;&gt;</span>
-              <span className="relative z-10">NQD&gt;&gt;</span>
+              <span className="absolute left-0.75 top-0 text-cyan-400 mix-blend-screen opacity-90 group-hover:-left-px transition-all">PKV</span>
+              <span className="absolute left-0.75 top-0 text-orange-500 mix-blend-screen opacity-90 group-hover:left-px transition-all">PKV</span>
+              <span className="relative z-10">PKV</span>
             </span>
           </div>
         </Link>

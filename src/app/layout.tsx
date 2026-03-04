@@ -15,7 +15,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Duc NQ| Home",
+  title: "Vu PK| Home",
   description: "Versatile Software Engineer with a strong passion for Software Product Development. Fullstack and VR/XR research. Building high-quality \"Make in Vietnam\" products that deliver real value to users.",
 };
 
